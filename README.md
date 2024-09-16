@@ -1,7 +1,3 @@
-Claro! Aqui está o README atualizado com os screenshots que você forneceu:
-
----
-
 # GoRestaurant-Mobile
 
 GoRestaurant is a mobile application that allows users to view, create, and update food dishes. The app provides an intuitive interface for managing restaurant menus and orders.
